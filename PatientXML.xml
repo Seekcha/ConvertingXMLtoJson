@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<patient>
+	<patients>
+		<img>img/john.jpg</img>
+		<filecode>A0001</filecode>
+		<firstname>John</firstname>
+		<lastname>Doe</lastname>
+		<dob>16/02/1998</dob>
+		<gender>Male</gender>
+		<address>
+			<street>Royal Road</street>
+			<city>Goodlands</city>
+		</address>
+		<phone>
+			<cell>59781548</cell>
+			<home>2836484</home>
+			<work>4581068</work>
+		</phone>
+		<email>John@deo.com</email>
+		<medicalhistory>Tumor cured by Dr Allen Black</medicalhistory>
+		<allergies>No allergies</allergies>
+		<bloodgroup>AB-</bloodgroup>
+		<maritalstatus>Single</maritalstatus>
+		<spousenamem>
+			<firstname></firstname>
+			<lastname></lastname>
+		</spousenamem>
+		<occupation>Teacher</occupation>
+		<employ>
+			<firstname>Eriksen</firstname>
+			<lastname>Marshall</lastname>
+			<phone>
+				<cell>58907926</cell>
+				<home>2893648</home>
+				<work>2785149</work>
+			</phone>
+			<address>
+				<street>T-shirt Road</street>
+				<city>Ebene</city>
+			</address>
+		</employ>
+		<emergence>
+			<firstname>Saget</firstname>
+			<lastname>Bob</lastname>
+			<address>
+				<street>City Road</street>
+				<city>Port Louis</city>
+			</address>
+			<phone>
+				<cell>57598345</cell>
+				<home>2836789</home>
+				<work>2548468</work>
+			</phone>
+			<email>Bob@sa.com</email>
+		</emergence>
+	</patients>	
+</patient>
+	

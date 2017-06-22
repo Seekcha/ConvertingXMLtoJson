@@ -1,0 +1,113 @@
+{
+    "patient": {
+        "patients": {
+            "img": {
+                "0": "img\/john.jpg"
+            },
+            "filecode": {
+                "0": "A0001"
+            },
+            "firstname": {
+                "0": "John"
+            },
+            "lastname": {
+                "0": "Doe"
+            },
+            "dob": {
+                "0": "16\/02\/1998"
+            },
+            "gender": {
+                "0": "Male"
+            },
+            "address": {
+                "street": {
+                    "0": "Royal Road"
+                },
+                "city": {
+                    "0": "Goodlands"
+                }
+            },
+            "phone": {
+                "cell": {
+                    "0": "59781548"
+                },
+                "home": {
+                    "0": "2836484"
+                },
+                "work": {
+                    "0": "4581068"
+                }
+            },
+            "email": {
+                "0": "John@deo.com"
+            },
+            "medicalhistory": {
+                "0": "Tumor cured by Dr Allen Black"
+            },
+            "occupation": {
+                "0": "Teacher"
+            },
+            "spousename": {
+                "firstname": null,
+                "lastname": null
+            },
+            "employ": {
+                "firstname": {
+                    "0": "Eriksen"
+                },
+                "lastname": {
+                    "0": "Marshall"
+                },
+                "phone": {
+                    "cell": {
+                        "0": "58907926"
+                    },
+                    "home": {
+                        "0": "2893648"
+                    },
+                    "work": {
+                        "0": "2785149"
+                    }
+                },
+                "address": {
+                    "street": {
+                        "0": "T-shirt Road"
+                    },
+                    "city": {
+                        "0": "Ebene"
+                    }
+                }
+            },
+            "emergence": {
+                "firstname": {
+                    "0": "Saget"
+                },
+                "lastname": {
+                    "0": "Bob"
+                },
+                "address": {
+                    "street": {
+                        "0": "City Road"
+                    },
+                    "city": {
+                        "0": "Port Louis"
+                    }
+                },
+                "phone": {
+                    "cell": {
+                        "0": "57598345"
+                    },
+                    "home": {
+                        "0": "2836789"
+                    },
+                    "work": {
+                        "0": "2548468"
+                    }
+                },
+                "email": {
+                    "0": "Bob@sa.com"
+                }
+            }
+        }
+    }
+}
